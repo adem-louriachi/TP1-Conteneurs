@@ -2,7 +2,7 @@
 
 ### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence
 
-# Séance 2 : Collections, principes SOLID, Strategy
+# TP1 (séance 2) : Collections, principes SOLID, Strategy
 
 
 * Le support du cours est disponible sur l'ENT
