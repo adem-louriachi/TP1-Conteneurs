@@ -5,7 +5,7 @@
 # Séance 2 : Collections, principes SOLID, Strategy
 
 
-* Le support du cours est disponible [ici](https://github.com/IUTInfoAix-M3105/Ressources)
+* Le support du cours est disponible sur l'ENT
 * Le [forum Piazza](https://piazza.com/univ-amu.fr/fall2017/m3105/home) de ce cours pour poser vos questions
 * Pour pouvoir commencer à travailler vous devez accepter l'affectation du TP : https://classroom.github.com/a/KeOkKhAk
 
