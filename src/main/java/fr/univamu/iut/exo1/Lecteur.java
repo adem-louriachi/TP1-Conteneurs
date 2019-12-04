@@ -38,7 +38,6 @@ public class Lecteur {
 
         catch (ClassNotFoundException e) {}
 
-
         return conteneurs;
     }
 }
